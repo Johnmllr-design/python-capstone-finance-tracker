@@ -8,7 +8,7 @@ organize, and summarize their personal expenses. I wrote it for my Cognizant cap
 - Add expenses with a description, category, and amount
 - View all expenses organized by category
 - View a summary of total spending per category
-- Handle 
+- Handle erroneous and unexpected user input
 
 ## How to Run
 
@@ -18,8 +18,3 @@ organize, and summarize their personal expenses. I wrote it for my Cognizant cap
    cd python-capstone-finance-tracker
 
 2. run the script via python3 finance_tracker.py
-
-
-
-
-# python-capstone-finance-tracker
